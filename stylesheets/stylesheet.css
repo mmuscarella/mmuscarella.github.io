@@ -1,6 +1,6 @@
 /*******************************************************************************
-Slate Theme for GitHub Pages
-by Jason Costello, @jsncostello
+Modified from: Slate Theme for GitHub Pages
+               by Jason Costello, @jsncostello
 *******************************************************************************/
 
 @import url(pygment_trac.css);
@@ -266,7 +266,7 @@ Full-Width Styles
 
 .inner {
   position: relative;
-  max-width: 640px;
+  max-width: 900px;
   padding: 20px 10px;
   margin: 0 auto;
 }
@@ -296,7 +296,7 @@ Full-Width Styles
 }
 
 #header_wrap .inner {
-  padding: 50px 10px 30px 10px;
+  padding: 50px 10px 50px 10px;
 }
 
 #project_title {
@@ -361,7 +361,7 @@ Full-Width Styles
 }
 
 #main_content {
-  padding-top: 40px;
+  padding-top: 10px;
 }
 
 #footer_wrap {
