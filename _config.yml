@@ -22,7 +22,8 @@ twitter_username: MarioMuscarella
 github_username:  mmuscarella
 
 # Other options
-permalink: blog/:year/:month/:title
+#permalink: blog/:year/:month/:title
+permalink: /:title/
 #google_analytics: [UA-54340077-1]
 
 # Build settings
@@ -33,3 +34,4 @@ gems:
 exclude:
   - Gemfile
   - Gemfile.lock
+include: ["_pages"]
