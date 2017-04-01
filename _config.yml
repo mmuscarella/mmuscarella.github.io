@@ -13,7 +13,7 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Mario Muscarella
+title: Mario Muscarella: Micobial Ecologist
 email: mmuscar@illinois.edu
 description: Microbial Ecology and Ecophysiology
 baseurl: "" # the subpath of your site, e.g. /blog
@@ -24,7 +24,7 @@ github_username:  mmuscarella
 # Other options
 #permalink: blog/:year/:month/:title
 permalink: /:title/
-#google_analytics: [UA-54340077-1]
+google_analytics: [UA-54340077-1]
 
 # Build settings
 markdown: kramdown
