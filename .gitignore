@@ -6,3 +6,4 @@ docs/*.log
 docs/*.fdb_latexmk
 docs/*.fls
 docs/*.gz
+./.DS_Store
