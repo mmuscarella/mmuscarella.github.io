@@ -2,7 +2,7 @@
 layout: page
 title: Contact Information
 permalink: /contact/
-order: 5
+order: 6
 ---
 
 ![](/images/HeadShot.jpg){:width="100px"
@@ -17,5 +17,8 @@ University of Illinois<br>
 Urbana, Illinois 61801<br>
 
 ---
-[My CV]({{ site.url }}/docs/Muscarella_CV.pdf) <br>
-[Google Scholar](https://scholar.google.com/citations?user=8i5qwBQAAAAJ&hl=en) <br>
+# Useful Links
+
+[My CV]({{ site.url }}/docs/Muscarella_CV.pdf)
+
+[Google Scholar](https://scholar.google.com/citations?user=8i5qwBQAAAAJ&hl=en)
