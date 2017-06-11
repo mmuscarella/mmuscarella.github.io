@@ -39,5 +39,6 @@ $on-laptop:        800px;
 @import "minima";
 
 // Custom Assets
-.post-title { font-size: 28px; letter-spacing: -1px; line-height: 1; }
-@media screen and (max-width: 800px) { .post-title { font-size: 28px; } }
+.post-title { font-size: 28px; letter-spacing: -1px; line-height: 1;
+              text-align: center}
+@media screen and (max-width: 800px) { .post-title { font-size: 24px; } }
