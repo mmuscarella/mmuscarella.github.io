@@ -1,6 +1,8 @@
 ---
-layout: page
+layout: home-page
 ---
+
+
 ![](/images/HeadShot.jpg){:width="200px"
 style="float: left;margin-right: 12px;margin-top: 0px;"}
 

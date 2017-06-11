@@ -5,7 +5,7 @@ permalink: /teaching/
 order: 2
 ---
 
-# Teaching Overview
+# Overview
 
 *Teaching philosophy coming soon*
 
