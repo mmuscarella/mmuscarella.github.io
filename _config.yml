@@ -35,4 +35,3 @@ exclude:
   - Gemfile
   - Gemfile.lock
 include: ["_pages"]
-include: ["_assets"]
