@@ -5,7 +5,6 @@ permalink: /research/
 order: 1
 ---
 
-*Research Philosophy Coming Soon*
 
 ---
 **Phylogenetic Patterns of Microbial Traits** <br>

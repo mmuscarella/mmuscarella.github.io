@@ -7,8 +7,6 @@ order: 2
 
 # Overview
 
-*Teaching philosophy coming soon*
-
 ---
 # Course Development
 
