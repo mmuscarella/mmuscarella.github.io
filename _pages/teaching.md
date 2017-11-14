@@ -7,6 +7,15 @@ order: 2
 
 # Overview
 
+As an educator, my role is to promote learning in an atmosphere that inspires creativity, interest, and critical thinking. I believe education should go beyond routine memorization and lecture-driven learning, and that students learn best when there is a captivating opportunity to share and discuss new information.
+
+My teaching philosophy is built upon the following:
+
++ Fundamentals versus critical thinking skills
++ Learning Outcomes and Teaching Modules
++ Learning Through Engagement
++ Diverse Assessments
+
 ---
 # Course Development
 
@@ -26,6 +35,9 @@ Course Materials:
 **Quantitative Biodiversity** <br>
 *Years Taught*: 2016 <br>
 Graduate-level course that focuses on theory, patterns, metrics, and tools used to study biodiversity. Students calculate diversity metrics, generate and quantify diversity relationships, visualize multivariate data, and conduct phylogenetic tests. Students use modern statistical computing and graphics environments (i.e., R), as well as version control tools (i.e., GitHub). See previous course website for more information.
+
++ repo: https://github.com/quantitativebiodiversity
++ website: http://documentup.com/QuantitativeBiodiversity/QuantitativeBiodiversity
 
 **Microbial Metagenomics** <br>
 *Years Taught*: 2011, 2012<br>
