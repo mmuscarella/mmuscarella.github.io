@@ -35,3 +35,6 @@ exclude:
   - Gemfile
   - Gemfile.lock
 include: ["_pages"]
+kramdown:
+  # parse markdown inside block-level HTML tag
+  parse_block_html: true

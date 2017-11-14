@@ -11,7 +11,14 @@ order: 2
 # Course Development
 
 **Microbial Ecology**
-As part of a graduate education course, I developed a broad microbial ecology course. This course covers the fundamentals of microbial ecology in three main sections: populations, communities, and ecosystems. Populations: students explore population growth and simple population models. Communities: students explore the developments in microbial community ecology and core ecological theory. Ecosystems: students explore biogeochemistry and how environmental conditions drive ecosystem function. 
+As part of a graduate education course, I developed a broad microbial ecology course. This course covers the fundamentals of microbial ecology in three main sections: populations, communities, and ecosystems. Populations: students explore population growth and simple population models. Communities: students explore the developments in microbial community ecology and core ecological theory. Ecosystems: students explore biogeochemistry and how environmental conditions drive ecosystem function.
+
+Course Materials:
+
++ [example syllabus]({{ site.url }}/docs/Muscarella_MicrobialEcology_Syllabus.pdf)
++ [example lesson plan]({{ site.url }}/docs/Muscarella_MicrobialEcology_LessonPlanExample.pdf)
++ [example assignment]({{ site.url }}/docs/Muscarella_MicrobialEcology_AssignmentExample.pdf)
++ [example lab activity]({{ site.url }}/docs/Muscarella_MicrobialEcology_LabExample.pdf)
 
 ---
 # Previous Courses

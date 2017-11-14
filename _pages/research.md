@@ -7,14 +7,23 @@ order: 1
 
 
 ---
-**Phylogenetic Patterns of Microbial Traits** <br>
-![](/images/MicrobialInnovationsConceptualModel.png){:width="300px"
-style="float: right;margin-left: 12px;margin-right: 0px;margin-top: 0px;"}
+## Phylogenetic Patterns of Microbial Traits
 
-I am broadly interested in using a traits based perspective to understand microbial community structure and function. However, since the majority of microbes are not in culture, it is difficult to know their traits. Recent works suggests that we may be able to use the phylogenetic relationships between organisms to understand the traits of the uncultured biosphere. But, the predictions often differ. Specifically, predictions based on trait conservation differ from those based on ancestral states. Therefore, I am working on developing theory to explain the differences in trait conservation and ancestral states. In addition, I am testing these theoretical predictions using genomic features across the bacterial and archaeal tree of life. This work uses simulation based models and the analysis of ~4000 genomes. Stay tuned for updates!!!!!!
+<table align="top">
+    <tr>
+        <td align="left" valign="top">
+        <img src="/images/MicrobialInnovationsConceptualModel.png" alt="Microbial Innovations Model" width="5000">
+        Microbial trait evolution model
+        </td>
+        <td style="text-align:justify">
+        I am broadly interested in using a traits based perspective to understand microbial community structure and function. However, since the majority of microbes are not in culture, it is difficult to know their traits. Recent works suggests that we may be able to use the phylogenetic relationships between organisms to understand the traits of the uncultured biosphere. But, the predictions often differ. Specifically, predictions based on trait conservation differ from those based on ancestral states. Therefore, I am working on developing theory to explain the differences in trait conservation and ancestral states. In addition, I am testing these theoretical predictions using genomic features across the bacterial and archaeal tree of life. This work uses simulation based models and the analysis of ~4000 genomes.
+</td>
+    </tr>
+</table>
 
 
-**Experimental Microbial Communities** <br>
+
+## Experimental Microbial Communities 
 One of the major challenges in microbial ecology has been designing methods to experimentally manipulate microbial communities. This stems from a desire to show replicated responses to environmental stimuli. In collaboration with the O'Dwyer and Kuehn Labs, I have been working to develop synthetic communities in the lab that mimic natural microbial communities. We have developed a computational pipeline that uses 16S rRNA survey data and bacterial isolate databases to determine the best representative community of isolates. We are currently testing this method with a lake community.
 
 
