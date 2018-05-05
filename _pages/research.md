@@ -11,7 +11,7 @@ order: 1
 
 ## Evolutionary History of Microbial Traits
 
-<table align="top">
+<table align="top" border="0">
     <tr>
         <td align="left" valign="top">
         <img src="/images/MicrobialInnovationsConceptualModel.png" alt="Microbial Innovations Model" width="5000">
