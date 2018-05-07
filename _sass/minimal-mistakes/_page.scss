@@ -7,11 +7,11 @@
   margin-left: auto;
   margin-top: 2em;
   margin-right: auto;
-  padding-left: 2em;
-  padding-right: 2em;
+  padding-left: 1em;
+  padding-right: 1em;
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
-  max-width: 90%;
+  max-width: 100%;
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
 
@@ -23,13 +23,13 @@
 .page {
   @include breakpoint($large) {
     float: right;
-    width: calc(90%);
-    padding-right: 2em;
+    width: calc(100% - #{$right-sidebar-width-narrow});
+    padding-right: $right-sidebar-width-narrow;
   }
 
   @include breakpoint($x-large) {
-    width: calc(90%);
-    padding-right: 2em;
+    width: calc(100% - #{$right-sidebar-width});
+    padding-right: $right-sidebar-width;
   }
 
   .page__inner-wrap {
@@ -55,7 +55,6 @@
 .page__title {
   margin-top: 0;
   line-height: 1;
-
 
   & + .page__meta {
     margin-top: -0.5em;
