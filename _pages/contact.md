@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: Contact
 permalink: /contact/
 order: 6
