@@ -70,15 +70,15 @@
     position: absolute;
     top: 0;
     right: 0;
-    width: $right-sidebar-width-narrow;
-    margin-right: -1 * $right-sidebar-width-narrow;
+    width: $right-sidebar-width;
+    margin-right: -1 * $right-sidebar-width;
     padding-left: 1em;
     z-index: 10;
   }
 
   @include breakpoint($x-large) {
-    width: $right-sidebar-width;
-    margin-right: -1 * $right-sidebar-width;
+    width: $right-sidebar-width-wide;
+    margin-right: -1 * $right-sidebar-width-wide;
   }
 }
 
@@ -111,7 +111,7 @@
   }
 
   img {
-    max-width: 110px;
+    max-width: 150px;
     border-radius: 50%;
 
     @include breakpoint($large) {
@@ -294,4 +294,3 @@
     margin-right: initial;
   }
 }
-

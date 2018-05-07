@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: Teaching
 permalink: /teaching/
 order: 2

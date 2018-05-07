@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 permalink: /
 author_profile: true
 toc: false

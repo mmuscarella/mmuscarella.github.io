@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: Mentees
 permalink: /mentees/
 order: 3

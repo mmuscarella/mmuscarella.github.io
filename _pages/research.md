@@ -1,5 +1,5 @@
 ---
-layout: single
+layout: archive
 title: Research
 permalink: /research/
 order: 1
