@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: Research
+author_profile: true
 permalink: /research/
 order: 1
 ---

@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: Mentees
+author_profile: true
 permalink: /mentees/
 order: 3
 ---

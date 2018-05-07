@@ -8,12 +8,10 @@
   @include breakpoint($large) {
     float: right;
     width: calc(100% - #{$right-sidebar-width-narrow});
-    padding-right: $right-sidebar-width-narrow;
   }
 
   @include breakpoint($x-large) {
     width: calc(100% - #{$right-sidebar-width});
-    padding-right: $right-sidebar-width;
   }
 }
 
@@ -312,8 +310,7 @@
 
   .feature__item,
   .feature__item--left,
-  .feature__item--center,
-  .feature__item--right {
+  .feature__item--center {
     font-size: 1em;
   }
 }

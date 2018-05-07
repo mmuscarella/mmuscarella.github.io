@@ -1,6 +1,7 @@
 ---
 layout: archive
 title: Teaching
+author_profile: true
 permalink: /teaching/
 order: 2
 ---

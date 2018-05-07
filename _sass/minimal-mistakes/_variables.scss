@@ -6,7 +6,7 @@
    Typography
    ========================================================================== */
 
-$doc-font-size: 16 !default;
+$doc-font-size: 10 !default;
 
 /* paragraph indention */
 $paragraph-indent: false !default; // true, false (default)
@@ -127,10 +127,16 @@ $base0f: #ff5370 !default;
    Breakpoints
    ========================================================================== */
 
-$small: 600px !default;
+/*$small: 600px !default;
 $medium: 768px !default;
 $medium-wide: 900px !default;
 $large: 1024px !default;
+$x-large: 1280px !default;*/
+
+$small: 400px !default;
+$medium: 500px !default;
+$medium-wide: 700px !default;
+$large: 900px !default;
 $x-large: 1280px !default;
 
 /*
