@@ -3,10 +3,7 @@ layout: archive
 title: Teaching
 author_profile: true
 permalink: /teaching/
-order: 2
 ---
-
-# Overview
 
 As an educator, my role is to promote learning in an atmosphere that inspires creativity, interest, and critical thinking. I believe education should go beyond routine memorization and lecture-driven learning, and that students learn best when there is a captivating opportunity to share and discuss new information.
 

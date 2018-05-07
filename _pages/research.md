@@ -3,15 +3,14 @@ layout: archive
 title: Research
 author_profile: true
 permalink: /research/
-order: 1
 ---
 
-**Overview**: My research is motivated by the ecological function of microorganisms. Within ecosystems, microbial activities dictate the types and rates of biogeochemical cycles. However, it is often unclear how microbial communities will respond to environmental changes. Much of my research is focused on understanding how changes in available resources will impact the structure and function of microbial communities. Resources drive population dynamics, mediate species interactions, and are the currency governing biogeochemical cycles. But in many cases, humans have altered the movement of resources within and across landscapes. My research addresses questions related to the responses of microbial populations, communities, and ecosystems to changes in the resource environment. Specifically, I ask questions related to how the supply and diversity of resources alters the composition and function of communities, and how the traits and species interactions link structure and function. To answer these questions, I use a mixture of field, lab, bioinformatics, and theoretical approaches. Using these diverse approaches my research bridges microbiology and community and ecosystem ecology.
+My research is motivated by the ecological function of microorganisms. Within ecosystems, microbial activities dictate the types and rates of biogeochemical cycles. However, it is often unclear how microbial communities will respond to environmental changes. Much of my research is focused on understanding how changes in available resources will impact the structure and function of microbial communities. Resources drive population dynamics, mediate species interactions, and are the currency governing biogeochemical cycles. But in many cases, humans have altered the movement of resources within and across landscapes. My research addresses questions related to the responses of microbial populations, communities, and ecosystems to changes in the resource environment. Specifically, I ask questions related to how the supply and diversity of resources alters the composition and function of communities, and how the traits and species interactions link structure and function. To answer these questions, I use a mixture of field, lab, bioinformatics, and theoretical approaches. Using these diverse approaches my research bridges microbiology and community and ecosystem ecology.
 
 Projects:
 + Evolutionary History of Microbial Traits
-+
-+
++ Microbial responses to altered resource inputs
++ Microbial responses to resource heterogeneity
 
 ---
 

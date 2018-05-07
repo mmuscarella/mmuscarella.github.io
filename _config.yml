@@ -100,8 +100,10 @@ analytics:
 author:
   name             : "Mario Muscarella"
   avatar           : "/images/HeadShot.jpg"
-  bio              : "Microbial Ecologist"
-  location         : "University of Illinois"
+  bio              : "Microbial Ecologist<br>
+                       Postdoctoral Researcher<br>
+                       University of Illinois<br>"
+  location         : "Urbana, Illinois"
   email            : "mmuscar@illinois.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
@@ -111,7 +113,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : mmuscarella
   gitlab           :
   google_plus      :
   keybase          :

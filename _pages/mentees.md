@@ -1,18 +1,19 @@
 ---
 layout: archive
 title: Mentees
-author_profile: true
 permalink: /mentees/
-order: 3
+author_profile: true
 ---
 
+
+
 ---
-# Current Mentees
+## Current Mentees
 
 *Please contact me for available opportunities*
 
 ---
-# Past Mentees
+##  Past Mentees
 
 **Belen Muniz**, University of Illinois at Urbana-Champaign<br>
 *The Resource Interference Model*: Aquatic environments often contain a diverse selection of resources which microorganisms can use. Often this consists of a mixture of allochthonous resources when enter from outside the system and autochthonous resources which are produced within the system. Belen worked on a theoretical framework to understand how allochthonous and autochthonous resources interact and influence the composition and stability of communities.
