@@ -137,6 +137,7 @@ include:
   - docs
   - _layouts
   - index.md
+
 exclude:
   - "*.sublime-project"
   - "*.sublime-workspace"
