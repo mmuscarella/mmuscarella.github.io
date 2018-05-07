@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Research
 permalink: /research/
 order: 1
@@ -7,21 +7,19 @@ order: 1
 
 **Overview**: My research is motivated by the ecological function of microorganisms. Within ecosystems, microbial activities dictate the types and rates of biogeochemical cycles. However, it is often unclear how microbial communities will respond to environmental changes. Much of my research is focused on understanding how changes in available resources will impact the structure and function of microbial communities. Resources drive population dynamics, mediate species interactions, and are the currency governing biogeochemical cycles. But in many cases, humans have altered the movement of resources within and across landscapes. My research addresses questions related to the responses of microbial populations, communities, and ecosystems to changes in the resource environment. Specifically, I ask questions related to how the supply and diversity of resources alters the composition and function of communities, and how the traits and species interactions link structure and function. To answer these questions, I use a mixture of field, lab, bioinformatics, and theoretical approaches. Using these diverse approaches my research bridges microbiology and community and ecosystem ecology.
 
+Projects:
++ Evolutionary History of Microbial Traits
++
++
+
 ---
 
 ## Evolutionary History of Microbial Traits
 
-<table align="top" border="0">
-    <tr>
-        <td align="left" valign="top">
-        <img src="/images/MicrobialInnovationsConceptualModel.png" alt="Microbial Innovations Model" width="5000">
-        Microbial trait evolution model
-        </td>
-        <td style="text-align:justify">
-        Bacteria and Archaea represent the base of the evolutionary tree of life and contain the vast majority of phylogenetic and functional diversity. These microorganisms and their traits directly impact ecosystems and human health. As such, a focus on functional traits has become increasingly common in microbial ecology and these trait-based approaches have the potential to link microbial communities and their ecological function. But what is missing is how, why, and in what order microorganisms acquired the traits we observe in the present day. These are important questions because they relate to the evolution, selective advantage, and trait similarity of extant organisms. Using genomic data, we reconstructed the evolutionary history of microbial traits using genomic data. In addition, we demonstrated that gene transition rates can be used to make predictions about the size and type of genes in a genome: generalist genomes comprise many labile genes while specialist genomes comprise more highly conserved functional genes. Our results provide a framework for understanding the evolutionary history of extant microorganisms, and provide insights into the evolution, selective advantage, and phylogenetic patterns of microbial traits.
-        </td>
-    </tr>
-</table>
+![](/images/MicrobialInnovationsConceptualModel.png){:width="300px"
+style="float: left;margin-right: 12px;margin-top: 0px;"}
+
+Bacteria and Archaea represent the base of the evolutionary tree of life and contain the vast majority of phylogenetic and functional diversity. These microorganisms and their traits directly impact ecosystems and human health. As such, a focus on functional traits has become increasingly common in microbial ecology and these trait-based approaches have the potential to link microbial communities and their ecological function. But what is missing is how, why, and in what order microorganisms acquired the traits we observe in the present day. These are important questions because they relate to the evolution, selective advantage, and trait similarity of extant organisms. Using genomic data, we reconstructed the evolutionary history of microbial traits using genomic data. In addition, we demonstrated that gene transition rates can be used to make predictions about the size and type of genes in a genome: generalist genomes comprise many labile genes while specialist genomes comprise more highly conserved functional genes. Our results provide a framework for understanding the evolutionary history of extant microorganisms, and provide insights into the evolution, selective advantage, and phylogenetic patterns of microbial traits.
 
 *Related Manuscripts*:
 1. Muscarella ME, O'Dwyer JP (In Review) Ecological insights from the evolutionary history of microbial innovations. bioRxiv preprint available, DOI: https://doi.org/10.1101/220939
@@ -29,18 +27,14 @@ order: 1
 
 ## Microbial responses to altered resource inputs
 
-<table align="top">
-    <tr>
-        <td align="left" valign="top">
-        <img src="/images/ponds_stability.png" alt="Microbial Community Stability" width="5000">
-        </td>
-        <td style="text-align:justify">
-        One of the major impacts humans have had on the landscape is changing the inputs of resources. These altered inputs are particularly noticeable in aquatic environments where they are often linked to deteriorating water quality. My research has focused on the altered flow of dissolved organic carbon between terrestrial and aquatic ecosystems. Terrestrially-derived dissolved organic carbon (tDOC) comprises most the organic matter pool in many aquatic ecosystems, and concentrations of tDOC have been rising in many parts of Europe and North American. This increased tDOC concentration has the potential to fundamentally alter aquatic ecosystem functioning by changing the structure and function of microbial communities. I have explored the impact of tDOC loading on aquatic microbial communities using the experimental ponds at the Kellogg Biological Station. My research shows that tDOC inputs select for specialized microorganisms that use tDOC to meet their metabolic demands. However, based on the dynamics of these specialists, it appears that the community does not rapidly respond to nutrient perturbations and thus can destabilize ecosystem function (Muscarella et al. 2016).  
-        </td>
-    </tr>
-</table>
+![](/images/ponds_stability.png){:width="300px"
+style="float: left;margin-right: 12px;margin-top: 0px;"}
+
+One of the major impacts humans have had on the landscape is changing the inputs of resources. These altered inputs are particularly noticeable in aquatic environments where they are often linked to deteriorating water quality. My research has focused on the altered flow of dissolved organic carbon between terrestrial and aquatic ecosystems. Terrestrially-derived dissolved organic carbon (tDOC) comprises most the organic matter pool in many aquatic ecosystems, and concentrations of tDOC have been rising in many parts of Europe and North American. This increased tDOC concentration has the potential to fundamentally alter aquatic ecosystem functioning by changing the structure and function of microbial communities. I have explored the impact of tDOC loading on aquatic microbial communities using the experimental ponds at the Kellogg Biological Station. My research shows that tDOC inputs select for specialized microorganisms that use tDOC to meet their metabolic demands. However, based on the dynamics of these specialists, it appears that the community does not rapidly respond to nutrient perturbations and thus can destabilize ecosystem function (Muscarella et al. 2016).  
+
 
 **Resource Subsidies** <br>
+
 
 The movement of resources between terrestrial and aquatic habitats has strong effects on ecological processes in recipient ecosystems. Allochthonous inputs modify the quality and quantity of the available resource pool in ways that may alter the composition and stability of recipient communities. Inputs of terrestrial dissolved organic carbon (tDOC) into aquatic ecosystems represent a large influx of resources that has the potential to affect local communities, especially microorganisms. To evaluate the effects of terrestrial inputs on aquatic bacterial community composition and stability, we manipulated the supply rate of tDOC to a set of experimental ponds. Overall, these results show that altered aquatic terrestrial linkages can have profound effects on the activity and stability of the base of the food web and thus can alter ecosystem functioning.
 
@@ -51,24 +45,16 @@ The movement of resources between terrestrial and aquatic habitats has strong ef
 
 ## Microbial responses to resource heterogeneity  
 
-<table align="top">
-    <tr>
-        <td align="left" valign="top">
-        <img src="/images/p_molecules.png" alt="Phosphorus resource heterogeneity" width="5000">
-        </td>
-        <td style="text-align:justify">
-        While often considered a homologous pool, many resources exist as heterogeneous mixtures of multiple chemical forms. As such resource heterogeneity has the potential to promote consumer diversity and coexistence via niche partitioning. Therefore, because it can promote local diversity, resource heterogeneity may explain the variation in how communities respond to resource availability. Using experimental mesocosms, I have explored the resource heterogeneity hypothesis using phosphorus resources. My research shows that different phosphorus resources (e.g., phosphate, phytic acid) alter the diversity and function of aquatic bacterial communities in predictable ways (Muscarella et al. 2014). Based on these findings, I proposed that the myriad of chemical forms representing any resource pool can be grouped into functional categories. With the phosphorus resources, a grouping based on a biomolecules model best predicts the observed data (Muscarella et al. 2014). I have also suggested that other information such as molecular complexity can group different types of resources.
-        </td>
-    </tr>
-    <tr>
-        <td align="left" valign="top">
-        <img src="/images/DOM_diversity.png" alt="Organic matter diversity alters community structure" width="5000">
-        </td>
-        <td style="text-align:justify">
-        In addition to phosphorus, I have applied this resource heterogeneity framework to bulk organic matter in aquatic ecosystems. Organic matter is used by heterotrophic microorganism to meet their metabolic demands. Using high-resolution mass spectrometry, I cataloged the diversity of organic matter in lakes, and demonstrated that organic matter composition can explain 40% of the diversity in heterotrophic microbial communities. Furthermore, using co-occurrence analysis, I described a microbe-resource interaction network, and used this network to suggest that these lakes are dominated by generalist consumers (Muscarella et al. In Prep). I hypothesize that resource heterogeneity and resource acquisition strategy (i.e., generalists versus specialists) explain resource – diversity relationships.  
-        </td>
-    </tr>
-</table>
+![](/images/p_molecules.png){:width="300px"
+style="float: left;margin-right: 12px;margin-top: 0px;"}
+
+While often considered a homologous pool, many resources exist as heterogeneous mixtures of multiple chemical forms. As such resource heterogeneity has the potential to promote consumer diversity and coexistence via niche partitioning. Therefore, because it can promote local diversity, resource heterogeneity may explain the variation in how communities respond to resource availability. Using experimental mesocosms, I have explored the resource heterogeneity hypothesis using phosphorus resources. My research shows that different phosphorus resources (e.g., phosphate, phytic acid) alter the diversity and function of aquatic bacterial communities in predictable ways (Muscarella et al. 2014). Based on these findings, I proposed that the myriad of chemical forms representing any resource pool can be grouped into functional categories. With the phosphorus resources, a grouping based on a biomolecules model best predicts the observed data (Muscarella et al. 2014). I have also suggested that other information such as molecular complexity can group different types of resources.
+
+
+![](/images/DOM_diversity.png){:width="300px"
+style="float: left;margin-right: 12px;margin-top: 0px;"}
+
+In addition to phosphorus, I have applied this resource heterogeneity framework to bulk organic matter in aquatic ecosystems. Organic matter is used by heterotrophic microorganism to meet their metabolic demands. Using high-resolution mass spectrometry, I cataloged the diversity of organic matter in lakes, and demonstrated that organic matter composition can explain 40% of the diversity in heterotrophic microbial communities. Furthermore, using co-occurrence analysis, I described a microbe-resource interaction network, and used this network to suggest that these lakes are dominated by generalist consumers (Muscarella et al. In Prep). I hypothesize that resource heterogeneity and resource acquisition strategy (i.e., generalists versus specialists) explain resource – diversity relationships.  
 
 
 **Resource Heterogeneity** <br>

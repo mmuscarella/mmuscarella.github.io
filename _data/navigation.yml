@@ -1,0 +1,10 @@
+# main links
+main:
+  - title: "Research"
+    url: /research/
+  - title: "Teaching"
+    url: /teaching/
+  - title: "Mentees"
+    url: /mentees/
+  - title: "CV"
+    url: /cv/

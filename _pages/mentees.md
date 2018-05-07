@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: single
 title: Mentees
 permalink: /mentees/
 order: 3
