@@ -38,7 +38,7 @@ $type-size-1: 2.441em !default; // ~39.056px
 $type-size-2: 1.953em !default; // ~31.248px
 $type-size-3: 1.563em !default; // ~25.008px
 $type-size-4: 1.25em !default; // ~20px
-$type-size-5: 1em !default; // ~16px
+$type-size-5: 1.0em !default; // ~16px
 $type-size-6: 0.75em !default; // ~12px
 $type-size-7: 0.6875em !default; // ~11px
 $type-size-8: 0.625em !default; // ~10px
@@ -135,9 +135,9 @@ $x-large: 1280px !default;*/
 
 $small: 400px !default;
 $medium: 500px !default;
-$medium-wide: 700px !default;
-$large: 900px !default;
-$x-large: 1280px !default;
+$medium-wide: 600px !default;
+$large: 800px !default;
+$x-large: 1000px !default;
 
 /*
    Grid

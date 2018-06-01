@@ -32,12 +32,6 @@ style="float: left;margin-right: 12px;margin-top: 0px;"}
 
 One of the major impacts humans have had on the landscape is changing the inputs of resources. These altered inputs are particularly noticeable in aquatic environments where they are often linked to deteriorating water quality. My research has focused on the altered flow of dissolved organic carbon between terrestrial and aquatic ecosystems. Terrestrially-derived dissolved organic carbon (tDOC) comprises most the organic matter pool in many aquatic ecosystems, and concentrations of tDOC have been rising in many parts of Europe and North American. This increased tDOC concentration has the potential to fundamentally alter aquatic ecosystem functioning by changing the structure and function of microbial communities. I have explored the impact of tDOC loading on aquatic microbial communities using the experimental ponds at the Kellogg Biological Station. My research shows that tDOC inputs select for specialized microorganisms that use tDOC to meet their metabolic demands. However, based on the dynamics of these specialists, it appears that the community does not rapidly respond to nutrient perturbations and thus can destabilize ecosystem function (Muscarella et al. 2016).  
 
-
-**Resource Subsidies** <br>
-
-
-The movement of resources between terrestrial and aquatic habitats has strong effects on ecological processes in recipient ecosystems. Allochthonous inputs modify the quality and quantity of the available resource pool in ways that may alter the composition and stability of recipient communities. Inputs of terrestrial dissolved organic carbon (tDOC) into aquatic ecosystems represent a large influx of resources that has the potential to affect local communities, especially microorganisms. To evaluate the effects of terrestrial inputs on aquatic bacterial community composition and stability, we manipulated the supply rate of tDOC to a set of experimental ponds. Overall, these results show that altered aquatic terrestrial linkages can have profound effects on the activity and stability of the base of the food web and thus can alter ecosystem functioning.
-
 *Related Manuscripts*:
 1. Lennon JT, Hamilton SK, Muscarella ME, AS Grandy, K Wickings, SE Jones (2013).  A source of terrestrial organic carbon to investigate the browning of aquatic ecosystems.  PLoS ONE 8(10):e75771
 
@@ -54,12 +48,7 @@ While often considered a homologous pool, many resources exist as heterogeneous 
 ![](/images/DOM_diversity.png){:width="300px"
 style="float: left;margin-right: 12px;margin-top: 0px;"}
 
-In addition to phosphorus, I have applied this resource heterogeneity framework to bulk organic matter in aquatic ecosystems. Organic matter is used by heterotrophic microorganism to meet their metabolic demands. Using high-resolution mass spectrometry, I cataloged the diversity of organic matter in lakes, and demonstrated that organic matter composition can explain 40% of the diversity in heterotrophic microbial communities. Furthermore, using co-occurrence analysis, I described a microbe-resource interaction network, and used this network to suggest that these lakes are dominated by generalist consumers (Muscarella et al. In Prep). I hypothesize that resource heterogeneity and resource acquisition strategy (i.e., generalists versus specialists) explain resource – diversity relationships.  
-
-
-**Resource Heterogeneity** <br>
-
-Food webs are often regulated by the bottom-up effects of resource availability. However, because resource pools often exist as heterogeneous mixtures of individual resources, resource heterogeneity may also affect the diversity of local communities. I have tested this hypothesis using both experimental and observations approaches. First, I measured the responses of aquatic microbial food webs in experimental mesocosms to the addition of 4 different phosphorus (P) sources. My results demonstrate that not all P resources are the same; although historically overlooked, P resource heterogeneity may have important implications for understanding and predicting the structure and function of aquatic communities. Second, I surveyed bacterial communities in lakes that spanned a resource concentration gradient and characterized resource heterogeneity in these lakes using high-resolution mass spectrometry of the dissolved organic matter (DOM) pool. I observed that resource concentration and resource heterogeneity affect resource--diversity relationships, but in different ways. These results have implications for understanding the interactions between bacteria and resources (C and P), and suggest that changes in resource inputs may alter the structure and function of bacterial communities.
+In addition to phosphorus, I have applied this resource heterogeneity framework to bulk organic matter in aquatic ecosystems. Organic matter is used by heterotrophic microorganism to meet their metabolic demands. Using high-resolution mass spectrometry, I cataloged the diversity of organic matter in lakes, and demonstrated that organic matter composition can explain 40% of the diversity in heterotrophic microbial communities. Furthermore, using co-occurrence analysis, I described a microbe-resource interaction network, and used this network to suggest that these lakes are dominated by generalist consumers (Muscarella et al. In Prep). I hypothesize that resource heterogeneity and resource acquisition strategy (i.e., generalists versus specialists) explain resource – diversity relationships.
 
 *Related Manuscripts*:
 1. Muscarella ME, Bird KC, Larsen ML, Placella SA, Lennon JT (2014).  Phosphorus resource heterogeneity affects the structure and function of microbial food webs.  Aquatic Microbial Ecology, 73(3):259-272
@@ -68,33 +57,13 @@ Food webs are often regulated by the bottom-up effects of resource availability.
 
 ## Microbial Carbon Traits
 
-<table align="top">
-    <tr>
-        <td align="left" valign="top">
-        <img src="/images/Carbon_bge.png" alt="" width="5000">
-        Bacterial Growth Efficiency (BGE)
-        </td>
-        <td style="text-align:justify">
-        Heterotrophic bacteria in ecosystems determine whether organic carbon is respired and lost as CO_2 or converted into biomass and retained in food webs. Many factors control how bacteria process carbon, but perhaps the most important factor is bacterial growth efficiency (BGE). BGE reflects the proportion of assimilated organic carbon that is converted into bacterial biomass. When BGE is high, more carbon is turned into biomass and thus potentially enters the food web. In contrast, when BGE low, more carbon is released as CO_2. In this project I have been measuring BGE in a set of bacterial isolates. Using these isolates, I measure BGE when grown with only a single carbon source. I use different carbon substrates to represent different types of resources available to heterotrophic bacteria. Overall, I have found that variation in BGE is better explained by consumer identity, and I have also identified physiological trade-offs related to growth strategy. These results provide a trait-based framework for understanding linkages between community structure and function due to the physiological constraints on BGE, and suggest that large changes in community composition or available resources may alter BGE in predictive ways.
-        </td>
-    </tr>
-</table>
+![](/images/Carbon_bge.png){:width="300px"
+style="float: left;margin-right: 12px;margin-top: 0px;"}
+
+Heterotrophic bacteria in ecosystems determine whether organic carbon is respired and lost as CO_2 or converted into biomass and retained in food webs. Many factors control how bacteria process carbon, but perhaps the most important factor is bacterial growth efficiency (BGE). BGE reflects the proportion of assimilated organic carbon that is converted into bacterial biomass. When BGE is high, more carbon is turned into biomass and thus potentially enters the food web. In contrast, when BGE low, more carbon is released as CO_2. In this project I have been measuring BGE in a set of bacterial isolates. Using these isolates, I measure BGE when grown with only a single carbon source. I use different carbon substrates to represent different types of resources available to heterotrophic bacteria. Overall, I have found that variation in BGE is better explained by consumer identity, and I have also identified physiological trade-offs related to growth strategy. These results provide a trait-based framework for understanding linkages between community structure and function due to the physiological constraints on BGE, and suggest that large changes in community composition or available resources may alter BGE in predictive ways.
 
 *Related Manuscripts*:
 1. Muscarella ME, Lennon JT (In Prep). Traits-based approach to bacterial growth efficiency. *Included in Dissertation: Muscarella ME (2016). Microbes and molecules: Resource variation affects populations, communities, and ecosystem functions*
 
 
 ## Other Projects
-
-<table align="top">
-    <tr>
-        <td align="left" valign="top">
-        <img src="/images/Carbon_bge.png" alt="" width="5000">
-        Bacterial Growth Efficiency (BGE)
-        </td>
-        <td style="text-align:justify">
-        Experimental Microbial Communities \br
-        One of the major challenges in microbial ecology has been designing methods to experimentally manipulate microbial communities. This stems from a desire to show replicated responses to environmental stimuli. In collaboration with the O'Dwyer and Kuehn Labs, I have been working to develop synthetic communities in the lab that mimic natural microbial communities. We have developed a computational pipeline that uses 16S rRNA survey data and bacterial isolate databases to determine the best representative community of isolates. We are currently testing this method with a lake community.
-        </td>
-        </tr>
-</table>
