@@ -12,6 +12,7 @@
   -webkit-animation: $intro-transition;
   animation: $intro-transition;
   max-width: 1000px;
+  width: 90%;
   -webkit-animation-delay: 0.15s;
   animation-delay: 0.15s;
 
@@ -21,6 +22,12 @@
 }
 
 .page {
+  @include breakpoint($medium-wide) {
+    float: right;
+    width: calc(90% - #{$right-sidebar-width-narrow});
+    padding-right: $right-sidebar-width-narrow;
+  }
+
   @include breakpoint($large) {
     float: right;
     width: calc(90% - #{$right-sidebar-width-narrow});
