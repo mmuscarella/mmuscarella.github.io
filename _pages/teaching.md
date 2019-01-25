@@ -17,6 +17,8 @@ My teaching philosophy is built upon the following:
 ---
 # Course Development
 
+**Evolution of Molecules and Cells**
+
 **Microbial Ecology**
 As part of a graduate education course, I developed a broad microbial ecology course. This course covers the fundamentals of microbial ecology in three main sections: populations, communities, and ecosystems. Populations: students explore population growth and simple population models. Communities: students explore the developments in microbial community ecology and core ecological theory. Ecosystems: students explore biogeochemistry and how environmental conditions drive ecosystem function.
 
