@@ -10,11 +10,12 @@ style="float: right;margin-left: 12px;margin-top: 0px;"}
 
 
 Mario E. Muscarella<br>
-Department of Plant Biology<br>
-University of Illinois<br>
-172 Morrill Hall<br>
-505 South Goodwin Avenue<br>
-Urbana, Illinois 61801<br>
+Aquatic Ecology Research Group<br>
+Département des sciences biologiques<br>
+Université du Quebéc à Montréal<br>
+Pavillon des Sciences Biologiques, SB-2670<br>
+2080 Rue Saint-Urbain  <br>
+Montréal, Québec H2X 3X8 Canada<br>
 
 ---
 # Useful Links
