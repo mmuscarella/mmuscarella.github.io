@@ -101,9 +101,11 @@ author:
   name             : "Mario Muscarella"
   avatar           : "/images/HeadShot.jpg"
   bio              : "Microbial Ecologist<br>
-                       Postdoctoral Researcher<br>
-                       University of Illinois<br>"
-  location         : "Urbana, Illinois"
+                       Research Fellow<br>
+                       Aquatic Ecology Research Group<br>
+                       Département des sciences biologiques<br>
+                       Université du Quebéc à Montréal<br>"
+  location         : "Montréal, Québec"
   email            : "mmuscar@illinois.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
