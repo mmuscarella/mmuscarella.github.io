@@ -18,7 +18,7 @@ Projects:
 
 ## Microbial Metabolism
 
-\textbf{\emph{Stay tuned for updates!}}
+### Stay tuned for updates!
 
 ## Evolutionary History of Microbial Traits ##
 

@@ -14,3 +14,11 @@ I am a postdoctoral Fellow in the [del Giorgio Lab](http://www.gril.uqam.ca/del_
 I am broadly interested in the role of microorganisms in the environment and how environmental changes alter the structure and function of microbial communities. I am interested in how microbial communities respond to changes in local resources (e.g., carbon, phosphorus). These responses may include differences in community composition, species interactions, and ecosystem processes. My research uses a mixture of field observations, laboratory experimentation, bioinformatics, and theory. Learn more about my active research [here]( {{ site.url }}/research).
 
 To learn more about me and my interests, please feel free to follow me on twitter and GitHub.
+
+Mario E. Muscarella<br>
+Aquatic Ecology Research Group<br>
+Département des sciences biologiques<br>
+Université du Quebéc à Montréal<br>
+Pavillon des Sciences Biologiques, SB-2670<br>
+2080 Rue Saint-Urbain  <br>
+Montréal, Québec H2X 3X8 Canada<br>
