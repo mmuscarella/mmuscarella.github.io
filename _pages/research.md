@@ -27,7 +27,7 @@ gallery:
 
 My research addresses questions related to the responses of microbial populations, communities, and ecosystems to changes in the resource environment. Specifically, I ask questions related to how the supply and diversity of resources alters the composition and function of communities, and how the traits and species interactions link structure and function. To answer these questions, I use a mixture of field, lab, bioinformatics, and theoretical approaches. Using these diverse approaches my research bridges microbiology and community and ecosystem ecology.
 
-Projects:
+![](/assets/images/ConceptualFigure.png){:width="400px"}
 
 
 
