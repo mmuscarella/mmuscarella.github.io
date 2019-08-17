@@ -3,11 +3,35 @@ layout: archive
 title: Research
 author_profile: true
 permalink: /research/
+header:
+  image: /assets/images/header_viruses.jpg
+gallery:
+  - url: /assets/images/canyonlake.jpg
+    image_path: /assets/images/canyonlake.jpg
+    alt: "Canyon Lake"
+    title: "Microbial Metabolism"
+  - url: /assets/images/unsplash-gallery-image-2.jpg
+    image_path: /assets/images/unsplash-gallery-image-2-th.jpg
+    alt: "placeholder image 2"
+    title: "Resource Heterogeneity"
+  - url: /assets/images/unsplash-gallery-image-3.jpg
+    image_path: /assets/images/unsplash-gallery-image-3-th.jpg
+    alt: "placeholder image 3"
+    title: "Microbial Traits"
+  - url: /assets/images/unsplash-gallery-image-4.jpg
+    image_path: /assets/images/unsplash-gallery-image-4-th.jpg
+    alt: "placeholder image 4"
+    title: "Theory in Microbial Ecology"
+
 ---
 
 My research addresses questions related to the responses of microbial populations, communities, and ecosystems to changes in the resource environment. Specifically, I ask questions related to how the supply and diversity of resources alters the composition and function of communities, and how the traits and species interactions link structure and function. To answer these questions, I use a mixture of field, lab, bioinformatics, and theoretical approaches. Using these diverse approaches my research bridges microbiology and community and ecosystem ecology.
 
 Projects:
+
+
+
+
 + [Evolutionary History of Microbial Traits](#evolutionary-history-of-microbial-traits)
 + [Modeling Microbe-Resource Interactions](#modeling-microbe-resource-interactions)
 + [Microbial Responses to Altered Resource Inputs](#microbial-responses-to-altered-resource-inputs)
