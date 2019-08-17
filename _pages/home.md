@@ -1,13 +1,13 @@
 ---
 layout: archive
 permalink: /
+title: Microbial Ecology and Ecophysiology
 author_profile: true
 toc: false
+header:
+  image: /assets/images/header_boreal.jpg
+  overlay_filter: rgba(0, 0, 0, 0.5)
 ---
-
-<p style="text-align: center; font-size: 26px; margin-bottom: 36px;font-weight: 400">
-  Microbial Ecology and Ecophysiology
-</p>
 
 I am a postdoctoral Fellow in the [del Giorgio Lab](http://www.gril.uqam.ca/del_Giorgio.html) at the Université du Quebéc à Montréal. I am currently studying large scale patterns of microbial metabolism in boreal waters to understand the local and regional drivers. Microbial metabolic rates link the composition of microbial communities to aquatic carbon dynamics. Based on previous studies, there are a number of abiotic and biotic factors which may control microbial metabolism, including physical properties such as pH and hydrological flow and biotic factors such as species interactions in the microbial community. However, there have been no large-scale studies conducted to understand these connections. Because microbial metabolism is the missing gap linking the structure and function of microbial communities, understanding drivers of microbial metabolism will ultimately help constrain predictive models. 
 

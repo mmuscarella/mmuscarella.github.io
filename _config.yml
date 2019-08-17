@@ -99,7 +99,7 @@ analytics:
 # Site Author
 author:
   name             : "Mario Muscarella"
-  avatar           : "/images/HeadShot.jpg"
+  avatar           : "/assets/images/HeadShot.jpg"
   bio              : "Microbial Ecologist<br>
                        Research Fellow<br>
                        Aquatic Ecology Group<br>
@@ -137,7 +137,7 @@ author:
 include:
   - .htaccess
   - _pages
-  - docs
+  - assets
   - _layouts
   - index.md
   - _includes
@@ -168,11 +168,11 @@ exclude:
   - tmp
   # - /docs # ignore Minimal Mistakes /docs
   - /test # ignore Minimal Mistakes /test
-  - docs/*aux
-  - docs/*fdb_latexmk
-  - docs/*fls
-  - docs/*log
-  - docs/*.synctex.gz
+  - /assets/docs/*aux
+  - /assets/docs/*fdb_latexmk
+  - /assets/docs/*fls
+  - /assets/docs/*log
+  - /assets/docs/*.synctex.gz
 
 keep_files:
   - .git
