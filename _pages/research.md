@@ -4,7 +4,7 @@ title: Research
 author_profile: true
 permalink: /research/
 header:
-  image: /assets/images/header_viruses.jpg
+  image: /assets/images/header_madagascar.jpg
 gallery:
   - url: /assets/images/canyonlake.jpg
     image_path: /assets/images/canyonlake.jpg
