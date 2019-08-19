@@ -14,6 +14,8 @@ header:
 
 *Please contact me for available opportunities*
 
+I will be starting my own research group at the University of Alaska Fairbanks in August 2020. More details to come soon!
+
 ---
 ##  Past Mentees
 
