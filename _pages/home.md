@@ -27,7 +27,7 @@ Pavillon des Sciences Biologiques, SB-2670<br>
 2080 Rue Saint-Urbain<br>
 Montréal, Québec H2X 3X8 Canada<br>
 
-Assistant Professor of Microbiology (Starting Aug 2020)
+Assistant Professor of Microbiology (Starting Aug 2020)<br>
 Institute of Arcitc Biology<br>
 University of Alaska Fairbanks<br>
 West Ridge Research Building<br>
