@@ -28,7 +28,7 @@ Pavillon des Sciences Biologiques, SB-2670<br>
 Montréal, Québec H2X 3X8 Canada<br>
 
 Assistant Professor of Microbiology (Starting Aug 2020)<br>
-Institute of Arcitc Biology<br>
+Institute of Arctic Biology<br>
 University of Alaska Fairbanks<br>
 West Ridge Research Building<br>
 PO Box 757000<br>
