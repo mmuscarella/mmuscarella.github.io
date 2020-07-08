@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  1 MAY 2020 11:55
+This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  8 JUL 2020 08:16
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -193,28 +193,39 @@ LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
 (Font)              Font shape `T1/phv/m/sl' tried instead on input line 54.
 LaTeX Font Info:    Font shape `T1/phv/m/sl' will be
 (Font)              scaled to size 10.40245pt on input line 54.
+
+Overfull \hbox (16.82076pt too wide) in paragraph at lines 75--76
+[]\T1/phv/m/n/10.95 Institute of Arc-tic Bi-ol-ogy: Bo-real and Arc-tic Mi-cro-
+bial Ecol-ogy, Aquatic Mi-cro-bial Ecol-ogy, Mi-cro-bial Metabolism 
+ []
+
 [1
 
 {/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+Overfull \hbox (4.62518pt too wide) in paragraph at lines 177--180
+[]\T1/phv/b/n/10.95 Muscarella ME\T1/phv/m/n/10.95 , O'Dwyer JP (2020) Species 
+dy-nam-ics and in-ter-ac-tions via metabol-i-cally in-formed consumer-
+ []
+
 [2] [3]
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 376.
+(Font)              <10.95> on input line 377.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 376.
+(Font)              <8> on input line 377.
 LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 376.
+(Font)              <6> on input line 377.
  [4] [5] [6]
 LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/b/it' tried instead on input line 695.
+(Font)              Font shape `T1/phv/b/it' tried instead on input line 696.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 695.
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 696.
 LaTeX Font Info:    Font shape `T1/phv/b/sl' will be
-(Font)              scaled to size 10.40245pt on input line 695.
+(Font)              scaled to size 10.40245pt on input line 696.
  [7] (./Muscarella_CV.aux) ) 
 Here is how much of TeX's memory you used:
  1901 strings out of 492616
  25258 string characters out of 6129482
- 98846 words of memory out of 5000000
+ 98812 words of memory out of 5000000
  5818 multiletter control sequences out of 15000+600000
  28331 words of font info for 37 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
@@ -224,7 +235,7 @@ Here is how much of TeX's memory you used:
 a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb>
 </usr/local/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/l
 ocal/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on Muscarella_CV.pdf (7 pages, 60161 bytes).
+Output written on Muscarella_CV.pdf (7 pages, 60192 bytes).
 PDF statistics:
  45 PDF objects out of 1000 (max. 8388607)
  31 compressed objects within 1 object stream
