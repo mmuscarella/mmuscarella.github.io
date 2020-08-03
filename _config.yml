@@ -101,11 +101,12 @@ author:
   name             : "Mario Muscarella"
   avatar           : "/assets/images/HeadShot.jpg"
   bio              : "Microbial Ecologist<br>
-                       Research Fellow<br>
-                       Aquatic Ecology Group<br>
-                       UQÀM<br>"
-  location         : "Montréal, Québec"
-  email            : "mmuscar@illinois.edu"
+                       Assistant Professor of Microbiology<br>
+                       Institute of Arctic Biology<br>
+                       Department of Biology and Wildlife<br>
+                       University of Alaska Fairbanks<br>"
+  location         : "Fairbanks, Alaska"
+  email            : "memuscarella@alaska.edu"
   uri              :
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
