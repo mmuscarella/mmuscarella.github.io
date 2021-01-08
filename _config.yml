@@ -142,6 +142,7 @@ include:
   - _layouts
   - index.md
   - _includes
+  _ index.html
 
 exclude:
   - "*.sublime-project"

@@ -1,142 +1,152 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.20 (TeX Live 2019) (preloaded format=pdflatex 2019.5.8)  8 JUL 2020 08:16
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (TeX Live 2020) (preloaded format=pdflatex 2020.4.7)  4 NOV 2020 09:50
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
 **Muscarella_CV.tex
 (./Muscarella_CV.tex
-LaTeX2e <2018-12-01>
-(./resume.cls
+LaTeX2e <2020-02-02> patch level 5
+L3 programming layer <2020-03-06> (./resume.cls
 Document Class: resume 2010/07/10 v0.9 Resume class
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/article.cls
-Document Class: article 2018/09/03 v1.4i Standard LaTeX document class
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/size11.clo
-File: size11.clo 2018/09/03 v1.4i Standard LaTeX file (size option)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/article.cls
+Document Class: article 2019/12/20 v1.4l Standard LaTeX document class
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/size11.clo
+File: size11.clo 2019/12/20 v1.4l Standard LaTeX file (size option)
 )
-\c@part=\count80
-\c@section=\count81
-\c@subsection=\count82
-\c@subsubsection=\count83
-\c@paragraph=\count84
-\c@subparagraph=\count85
-\c@figure=\count86
-\c@table=\count87
-\abovecaptionskip=\skip41
-\belowcaptionskip=\skip42
-\bibindent=\dimen102
+\c@part=\count167
+\c@section=\count168
+\c@subsection=\count169
+\c@subsubsection=\count170
+\c@paragraph=\count171
+\c@subparagraph=\count172
+\c@figure=\count173
+\c@table=\count174
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen134
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/parskip/parskip.sty
-Package: parskip 2019-01-16 v2.0c non-zero parskip adjustments
+(/usr/local/texlive/2020/texmf-dist/tex/latex/parskip/parskip.sty
+Package: parskip 2020-01-22 v2.0d non-zero parskip adjustments
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/oberdiek/kvoptions.sty
-Package: kvoptions 2016/05/16 v3.12 Key value format for package options (HO)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/kvoptions/kvoptions.sty
+Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/graphics/keyval.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/graphics/keyval.sty
 Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
-\KV@toks@=\toks14
+\KV@toks@=\toks15
 )
-(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ltxcmds.sty
-Package: ltxcmds 2016/05/16 v1.23 LaTeX kernel commands for general use (HO)
+(/usr/local/texlive/2020/texmf-dist/tex/generic/ltxcmds/ltxcmds.sty
+Package: ltxcmds 2019/12/15 v1.24 LaTeX kernel commands for general use (HO)
 )
-(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/kvsetkeys.sty
-Package: kvsetkeys 2016/05/16 v1.17 Key value parser (HO)
-
-(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/infwarerr.sty
-Package: infwarerr 2016/05/16 v1.4 Providing info/warning/error messages (HO)
-)
-(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/etexcmds.sty
-Package: etexcmds 2016/05/16 v1.6 Avoid name clashes with e-TeX commands (HO)
-
-(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifluatex.sty
-Package: ifluatex 2016/05/16 v1.4 Provides the ifluatex switch (HO)
-Package ifluatex Info: LuaTeX not detected.
-))))
-(/usr/local/texlive/2019/texmf-dist/tex/latex/etoolbox/etoolbox.sty
-Package: etoolbox 2018/08/19 v2.5f e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count88
+(/usr/local/texlive/2020/texmf-dist/tex/generic/kvsetkeys/kvsetkeys.sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 ))
-(/usr/local/texlive/2019/texmf-dist/tex/latex/tools/array.sty
-Package: array 2018/12/30 v2.4k Tabular extension package (FMi)
-\col@sep=\dimen103
-\ar@mcellbox=\box27
-\extrarowheight=\dimen104
-\NC@list=\toks15
-\extratabsurround=\skip43
-\backup@length=\skip44
-\ar@cellbox=\box28
+(/usr/local/texlive/2020/texmf-dist/tex/latex/etoolbox/etoolbox.sty
+Package: etoolbox 2019/09/21 v2.5h e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count175
+))
+(/usr/local/texlive/2020/texmf-dist/tex/latex/tools/array.sty
+Package: array 2019/08/31 v2.4l Tabular extension package (FMi)
+\col@sep=\dimen135
+\ar@mcellbox=\box45
+\extrarowheight=\dimen136
+\NC@list=\toks16
+\extratabsurround=\skip49
+\backup@length=\skip50
+\ar@cellbox=\box46
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/ifthen.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/ifthen.sty
 Package: ifthen 2014/09/29 v1.1c Standard LaTeX ifthen package (DPC)
 ))
-(/usr/local/texlive/2019/texmf-dist/tex/latex/geometry/geometry.sty
-Package: geometry 2018/04/16 v5.8 Page Geometry
+(/usr/local/texlive/2020/texmf-dist/tex/latex/geometry/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
 
-(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifpdf.sty
-Package: ifpdf 2018/09/07 v3.3 Provides the ifpdf switch
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/usr/local/texlive/2020/texmf-dist/tex/generic/iftex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count176
+\Gm@cntv=\count177
+\c@Gm@tempcnt=\count178
+\Gm@bindingoffset=\dimen137
+\Gm@wd@mp=\dimen138
+\Gm@odd@mp=\dimen139
+\Gm@even@mp=\dimen140
+\Gm@layoutwidth=\dimen141
+\Gm@layoutheight=\dimen142
+\Gm@layouthoffset=\dimen143
+\Gm@layoutvoffset=\dimen144
+\Gm@dimlist=\toks17
 )
-(/usr/local/texlive/2019/texmf-dist/tex/generic/oberdiek/ifvtex.sty
-Package: ifvtex 2016/05/16 v1.6 Detect VTeX and its facilities (HO)
-Package ifvtex Info: VTeX not detected.
-)
-(/usr/local/texlive/2019/texmf-dist/tex/generic/ifxetex/ifxetex.sty
-Package: ifxetex 2010/09/12 v0.6 Provides ifxetex conditional
-)
-\Gm@cnth=\count89
-\Gm@cntv=\count90
-\c@Gm@tempcnt=\count91
-\Gm@bindingoffset=\dimen105
-\Gm@wd@mp=\dimen106
-\Gm@odd@mp=\dimen107
-\Gm@even@mp=\dimen108
-\Gm@layoutwidth=\dimen109
-\Gm@layoutheight=\dimen110
-\Gm@layouthoffset=\dimen111
-\Gm@layoutvoffset=\dimen112
-\Gm@dimlist=\toks16
-)
-(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/helvet.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/helvet.sty
 Package: helvet 2005/04/12 PSNFSS-v9.2a (WaS) 
 )
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/fontenc.sty
-Package: fontenc 2018/08/11 v2.0j Standard LaTeX package
+(/usr/local/texlive/2020/texmf-dist/tex/latex/base/fontenc.sty
+Package: fontenc 2020/02/11 v2.0o Standard LaTeX package
+LaTeX Font Info:    Trying to load font information for T1+phv on input line 11
+2.
 
-(/usr/local/texlive/2019/texmf-dist/tex/latex/base/t1enc.def
-File: t1enc.def 2018/08/11 v2.0j Standard LaTeX file
-LaTeX Font Info:    Redeclaring font encoding T1 on input line 48.
-))
-(/usr/local/texlive/2019/texmf-dist/tex/latex/hanging/hanging.sty
+(/usr/local/texlive/2020/texmf-dist/tex/latex/psnfss/t1phv.fd
+File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
+
+
+LaTeX Warning: Font shape declaration has incorrect series value `mc'.
+               It should not contain an `m'! Please correct it.
+               Found on input line 20.
+
+
+LaTeX Warning: Font shape declaration has incorrect series value `mc'.
+               It should not contain an `m'! Please correct it.
+               Found on input line 23.
+
+
+LaTeX Warning: Font shape declaration has incorrect series value `mc'.
+               It should not contain an `m'! Please correct it.
+               Found on input line 26.
+
+
+LaTeX Warning: Font shape declaration has incorrect series value `mc'.
+               It should not contain an `m'! Please correct it.
+               Found on input line 46.
+
+)
+LaTeX Font Info:    Font shape `T1/phv/m/n' will be
+(Font)              scaled to size 10.40245pt on input line 112.
+) (/usr/local/texlive/2020/texmf-dist/tex/latex/hanging/hanging.sty
 Package: hanging 2009/09/02 v1.2b hanging paragraphs and punctuation
-\h@ngcommawd=\skip45
-\h@ngfstopwd=\skip46
-\h@ngquotewd=\skip47
-\h@ngdquotewd=\skip48
-\h@ngquerywd=\skip49
-\h@ngexclwd=\skip50
-\h@ngcolonwd=\skip51
-\h@ngscolonwd=\skip52
+\h@ngcommawd=\skip51
+\h@ngfstopwd=\skip52
+\h@ngquotewd=\skip53
+\h@ngdquotewd=\skip54
+\h@ngquerywd=\skip55
+\h@ngexclwd=\skip56
+\h@ngcolonwd=\skip57
+\h@ngscolonwd=\skip58
+)
+(/usr/local/texlive/2020/texmf-dist/tex/latex/l3backend/l3backend-pdfmode.def
+File: l3backend-pdfmode.def 2020-03-12 L3 backend support: PDF mode
+\l__kernel_color_stack_int=\count179
+\l__pdf_internal_box=\box47
 )
 (./Muscarella_CV.aux)
 \openout1 = `Muscarella_CV.aux'.
 
 LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 45.
 LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
 LaTeX Font Info:    ... okay on input line 45.
 LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 45.
 LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 45.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 45.
+LaTeX Font Info:    ... okay on input line 45.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 45.
 LaTeX Font Info:    ... okay on input line 45.
 LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 45.
 LaTeX Font Info:    ... okay on input line 45.
 LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 45.
 LaTeX Font Info:    ... okay on input line 45.
-LaTeX Font Info:    Try loading font information for T1+phv on input line 45.
-
-(/usr/local/texlive/2019/texmf-dist/tex/latex/psnfss/t1phv.fd
-File: t1phv.fd 2001/06/04 scalable font definitions for T1/phv.
-)
-LaTeX Font Info:    Font shape `T1/phv/m/n' will be
-(Font)              scaled to size 10.40245pt on input line 45.
 
 *geometry* driver: auto-detecting
 *geometry* detected driver: pdftex
@@ -174,8 +184,6 @@ LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 
 LaTeX Font Info:    Font shape `T1/phv/m/n' will be
 (Font)              scaled to size 19.70294pt on input line 45.
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <20.74> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 45.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 19.70294pt on input line 45.
 LaTeX Font Info:    Font shape `T1/phv/m/sc' will be
@@ -185,8 +193,6 @@ Overfull \hbox (30.0pt too wide) in paragraph at lines 45--45
 [] 
  []
 
-LaTeX Font Info:    Font shape `T1/phv/bx/n' in size <10.95> not available
-(Font)              Font shape `T1/phv/b/n' tried instead on input line 52.
 LaTeX Font Info:    Font shape `T1/phv/b/n' will be
 (Font)              scaled to size 10.40245pt on input line 52.
 LaTeX Font Info:    Font shape `T1/phv/m/it' in size <10.95> not available
@@ -201,41 +207,45 @@ bial Ecol-ogy, Aquatic Mi-cro-bial Ecol-ogy, Mi-cro-bial Metabolism
 
 [1
 
-{/usr/local/texlive/2019/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
-Overfull \hbox (4.62518pt too wide) in paragraph at lines 177--180
-[]\T1/phv/b/n/10.95 Muscarella ME\T1/phv/m/n/10.95 , O'Dwyer JP (2020) Species 
-dy-nam-ics and in-ter-ac-tions via metabol-i-cally in-formed consumer-
+{/usr/local/texlive/2020/texmf-var/fonts/map/pdftex/updmap/pdftex.map}]
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <10.95> on input line 249.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <8> on input line 249.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <6> on input line 249.
+
+[2] [3] [4]
+Overfull \hbox (4.49023pt too wide) in paragraph at lines 465--468
+[]\T1/phv/b/n/10.95 Muscarella ME, Boot CM, Broeck-ling CD, Lennon JT (2019) Re
+-source het-ero-gene-ity struc-tures aquatic
  []
 
-[2] [3]
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <10.95> on input line 377.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <8> on input line 377.
-LaTeX Font Info:    External font `cmex10' loaded for size
-(Font)              <6> on input line 377.
- [4] [5] [6]
-LaTeX Font Info:    Font shape `T1/phv/bx/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/b/it' tried instead on input line 696.
 LaTeX Font Info:    Font shape `T1/phv/b/it' in size <10.95> not available
-(Font)              Font shape `T1/phv/b/sl' tried instead on input line 696.
+(Font)              Font shape `T1/phv/b/sl' tried instead on input line 492.
 LaTeX Font Info:    Font shape `T1/phv/b/sl' will be
-(Font)              scaled to size 10.40245pt on input line 696.
- [7] (./Muscarella_CV.aux) ) 
+(Font)              scaled to size 10.40245pt on input line 492.
+
+Overfull \hbox (11.59727pt too wide) in paragraph at lines 520--523
+\T1/phv/b/n/10.95 gene-ity af-fects the struc-ture and func-tion of mi-cro-bial
+ food webs. Aquatic Mi-cro-bial Ecol-ogy, 73(3):259-
+ []
+
+[5] [6] [7] (./Muscarella_CV.aux) ) 
 Here is how much of TeX's memory you used:
- 1901 strings out of 492616
- 25258 string characters out of 6129482
- 98812 words of memory out of 5000000
- 5818 multiletter control sequences out of 15000+600000
- 28331 words of font info for 37 fonts, out of 8000000 for 9000
+ 2036 strings out of 480608
+ 28312 string characters out of 5903631
+ 276264 words of memory out of 5000000
+ 17936 multiletter control sequences out of 15000+600000
+ 556260 words of font info for 46 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 44i,6n,23p,879b,248s stack positions out of 5000i,500n,10000p,200000b,80000s
-{/usr/local/texlive/2019/texmf-dist/fonts/enc/dvips
-/base/8r.enc}</usr/local/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvb8
-a.pfb></usr/local/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvbo8a.pfb>
-</usr/local/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb></usr/l
-ocal/texlive/2019/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
-Output written on Muscarella_CV.pdf (7 pages, 60192 bytes).
+ 41i,6n,31p,879b,226s stack positions out of 5000i,500n,10000p,200000b,80000s
+{/usr/local/texlive/2020/texmf-dist/fonts/en
+c/dvips/base/8r.enc}</usr/local/texlive/2020/texmf-dist/fonts/type1/urw/helveti
+c/uhvb8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/helvetic/uhvbo
+8a.pfb></usr/local/texlive/2020/texmf-dist/fonts/type1/urw/helvetic/uhvr8a.pfb>
+</usr/local/texlive/2020/texmf-dist/fonts/type1/urw/helvetic/uhvro8a.pfb>
+Output written on Muscarella_CV.pdf (7 pages, 62431 bytes).
 PDF statistics:
  45 PDF objects out of 1000 (max. 8388607)
  31 compressed objects within 1 object stream
